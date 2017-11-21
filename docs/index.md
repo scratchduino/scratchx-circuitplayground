@@ -1,4 +1,6 @@
-![enter image description here](https://scratchduino.github.io/scratchx-circuitplayground/header-photo.png)
+
+
+![](https://scratchduino.github.io/scratchx-circuitplayground/images/header-photo.png)
 
 Scratchduino is a project developed to help young people easily integrate physical elements in their digital creations and expand their computers’ ability to interact with the physical world, using affordable hardware.
 
@@ -63,3 +65,58 @@ Getting Started
 10. Start using Scratchduino.
 
 
+![](https://scratchduino.github.io/scratchx-circuitplayground/images/figures-1-2.png)
+
+----------
+
+The Blocks
+-------------
+
+![](https://scratchduino.github.io/scratchx-circuitplayground/images/blocks.png)
+
+----------
+
+Demo Projects
+-------------
+
+You can import demo Scratchduino projects by clicking on File >> Load Project  and loading one of the demo files. You may download demo files from.
+Here you can find 6 simple demo files demonstrating different use cases.
+
+----------
+
+
+Supported Languages
+-------------------
+
+**en** - English | **ar** - Arabic | **he** - Hebrew
+
+To set the block language, add &lang=XX to the ScratchX URL. Where XX = one of the two letter language codes above.
+
+
+ **Example Link:**
+
+* [http://scratchx.org/?url=https://hasanaboshally.github.io/scratchduino/circuitx.js&**lang=ar**](http://scratchx.org/?url=https://hasanaboshally.github.io/scratchduino/circuitx.js&lang=ar) 
+
+----------
+
+
+Level #2
+--------
+
+Level 2 provides additional blocks to allow having analog input and control servos. Pin 9 and 10 on the board can be used for both “analog” or “servo” modes while pin 12 is always for analog input.
+
+To set the level, add &level=X to the ScratchX URL. Where X is the number of the desired level (starting from 1).
+
+ **Example Links:**
+
+- [http://scratchx.org/?url=https://hasanaboshally.github.io/scratchduino/circuitx.js&**level=2**
+](http://scratchx.org/?url=https://hasanaboshally.github.io/scratchduino/circuitx.js&level=2)
+
+- [http://scratchx.org/?url=https://hasanaboshally.github.io/scratchduino/circuitx.js&**lang=ar&level=2**](http://scratchx.org/?url=https://hasanaboshally.github.io/scratchduino/circuitx.js&lang=ar&level=2)
+
+----------
+
+
+The Circuit Playground
+----------------------
+![](https://scratchduino.github.io/scratchx-circuitplayground/images/circuit-playground.png)

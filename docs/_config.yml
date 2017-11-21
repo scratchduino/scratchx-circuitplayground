@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+title: "Scratchduino"
+description: "A ScratchX Extention for Circuit Playground"
+show_downloads: "true"

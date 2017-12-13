@@ -44,25 +44,27 @@ Getting Started
 ---------------
 
 
-1. Open Scratchduino by clicking here.
+1. Open Scratchduino by clicking [here](http://scratchx.org/?url=https://scratchduino.github.io/scratchx-circuitplayground/circuitx.js#scratch).
 
-2. Wait until you see the warning screen (can take up to a minute), then click on the “I understand, continue” green button.
+2. If asked, click on the “Enable Flash” label.
 
-3. Click on the “Click Here” green button to install and run the “Embedit Scratch Connection App”. (Keep the current window open)
+3. Wait until you see the warning screen (can take up to a minute), then click on the “I understand, continue” green button.
 
-4. Install the “Embedit Scratch Connection App” by clicking on the “Add To Chrome” gray button.
+4. Click on the “Click Here” green button to install and run the “Embedit Scratch Connection App”. (Keep the current window open)
 
-5. After the installation is complete, open the “Embedit Scratch Connection” app; you can do so by clicking on the “Lunch App” green button or by clicking on the app’s icon in your Chrome app launcher. (Don’t click on the “Open Scratch” orange button)
+5. Install the “Embedit Scratch Connection App” by clicking on the “Add To Chrome” gray button.
 
-6. Connect the Circuit Playground to your computer.
+6. After the installation is complete, open the “Embedit Scratch Connection” app; you can do so by clicking on the “Lunch App” green button or by clicking on the app’s icon in your Chrome app launcher. (Don’t click on the “Open Scratch” orange button)
 
-7. Make sure the app shows a green text saying “Circuit Playground Connected” (as shown in Figure 1 below)
+7. Connect the Circuit Playground to your computer.
 
-8. Minimize the “Embedit Scratch Connection” window and go back to the “Scratchduino” window.
+8. Make sure the app shows a green text saying “Circuit Playground Connected” (as shown in Figure 1 below)
 
-9. Make sure the Scratch program shows a green dot near the “Circuit Playground” label. (as shown in Figure 2 below)
+9. Minimize the “Embedit Scratch Connection” window and go back to the “Scratchduino” window.
 
-10. Start using Scratchduino.
+10. Make sure the Scratch program shows a green dot near the “Circuit Playground” label. (as shown in Figure 2 below)
+
+ ✓ You are ready to go.
 
 
 ![](https://scratchduino.github.io/scratchx-circuitplayground/images/figures-1-2.png)
